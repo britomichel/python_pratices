@@ -1,0 +1,5 @@
+print("Testando \n nova linha... \n Testando TAB \t Resulta do Tab...")
+print("texto 1 a 5 testando BackSpace 3xb pós 2: 1-2\b\b\b-3-4-5")
+print("texto 1 a 5 testando Carriage Return r pós 2: 1-2\r-3-4-5")
+print("Print de \'aspas simples\' com ESCAPE")
+print("Print de \\barras\\ com ESCAPE")
